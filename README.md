@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ChowdriS/ChowdriS/output/snake.svg" alt="Snake animation" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)
 
 ###
