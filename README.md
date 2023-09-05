@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)
+[my GitHub profile](https://github.com/YourGitHubUsername)
 
 ###
