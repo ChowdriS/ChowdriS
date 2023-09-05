@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-[my GitHub profile](https://github.com/ChowdriS)
-
 ###
