@@ -1,4 +1,6 @@
-<h2 align="center">Hi Everyone👋! My name is Chowdri Sakthivel and I'm a Software Engineer and an Inquistive mind nomad from India</h2>
+<h2 align="center">Hi Everyone👋! My name is Chowdri Sakthivel</h2>h2>
+  
+<h2 align="center">I'm a Software Engineer and an Inquistive mind nomad from India!</h2>
 
 ###
 
