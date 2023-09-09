@@ -8,8 +8,6 @@
 <li><p>📫 How to reach me: Mail</p></li>
 </ul><br>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
