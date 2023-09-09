@@ -1,11 +1,13 @@
 <h2 align="center">Hi Everyone 👋! My name is Chowdri Sakthivel</h2><br>
   
 <h2 align="center">I'm a Software Developer and an Inquistive mind nomad from India!</h2>
-###
+
 <h2>About Me</h2><br>
-<p>I love ❤️ writing code.</p>
-<p></p>I enjoy creating things that inspires me. ✨</p>
-<p>📫 How to reach me: Mail</p>
+<ul>
+<li><p>I love ❤️ writing code.</p></li>
+<li><p>I enjoy creating things that inspires me. ✨</p></li>
+<li><p>📫 How to reach me: Mail</p></li>
+</ul><br>
 
 ###
 
