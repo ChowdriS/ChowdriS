@@ -1,13 +1,18 @@
 <h2 align="center">Hi Everyone 👋! My name is Chowdri Sakthivel</h2><br>
   
 <h2 align="center">I'm a Software Developer and an Inquistive mind nomad from India!</h2>
+###
+<h2>About Me</h2><br>
+<p>I love ❤️ writing code.</p>
+<p></p>I enjoy creating things that inspires me. ✨</p>
+<p>📫 How to reach me: Mail</p>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ChowdriS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChowdriS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -54,5 +59,12 @@
 ###
 
 <br clear="both">
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChowdriS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChowdriS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
 
 ###
