@@ -4,7 +4,7 @@
 <h2>About Me</h2><br><ul>
 <li><p>I love ❤️ to learn a lot.</p></li>
 <li><p>I enjoy things that surprises me. ✨</p></li>
-<li><p>Get Knowledge till ur a Sage!!</p></li>
+<li><p>My motto : Get Knowledge till ur a Sage!!</p></li>
 </ul><br>
 
 ###
