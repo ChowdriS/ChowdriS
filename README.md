@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a Software Developer and an Inquistive mind nomad from India!</h2><br>
 <h2>About Me</h2><br><ul>
-<li><p>I ❤️ to learn a lot.</p></li>
+<li><p>I  ❤️  to learn a lot.</p></li>
 <li><p>I enjoy learning things that surprises me. ✨</p></li>
 <li><p>My motto : Get Knowledge till ur a Sage!!</p></li>
 </ul><br>
