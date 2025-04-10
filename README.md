@@ -51,6 +51,11 @@
   <a href="https://www.hackerrank.com/A_21CSR022/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <a href="https://leetcode.com/chowdrisakthivel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=808080&logoColor=white&style=for-the-badge" height="35" />
+<!--     <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&logoColor=white" height="35" alt="leetcode logo" /> -->
+  </a>
+
 </div>
 
 ---
@@ -73,6 +78,5 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chowdris&style=flat-square" alt="Profile Views" />
-</p>
+![Profile views counter](https://komarev.com/ghpvc/?username=chowdris&&style=flat-square)  
+
