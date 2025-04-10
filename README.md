@@ -70,10 +70,15 @@
 <br clear="both">
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChowdriS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChowdriS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chowdris" alt="stat graph"/>
 </div>
 
 ###
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chowdris&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+
+###
+![Profile views counter](https://komarev.com/ghpvc/?username=chowdris&&style=flat-square)  
