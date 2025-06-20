@@ -42,7 +42,7 @@
   <a href="mailto:chowdrisakthivel@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/chowdri-sakthivel/" target="_blank">
+  <a href="https://www.linkedin.com/in/chowdrisakthivel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://twitter.com/itz_me_chow3" target="_blank">
